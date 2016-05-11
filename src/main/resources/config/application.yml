@@ -8,3 +8,6 @@ spring:
 security:
   basic:
     enabled: false
+    
+doma:
+  dialect: MYSQL
